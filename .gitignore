@@ -2,3 +2,5 @@
 /logs
 /models
 /__pycache__
+/llama.cpp
+*.txt

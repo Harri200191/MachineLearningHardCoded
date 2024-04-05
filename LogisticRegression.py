@@ -39,5 +39,4 @@ if __name__ == "__main__":
     print("Intercept:", model.bias)
     print("Predictions:", y_pred)
 
-
-
+ 
